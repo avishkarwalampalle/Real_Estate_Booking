@@ -94,8 +94,3 @@ Contributions are welcome! Please follow these steps to contribute to the projec
    
 
 5. Create a pull request to the main repository.
-
-## Contact
-
-1. [GITHUB](https://github.com/kajalpandey25)
-2. [LINKEDIN](https://www.linkedin.com/in//kajal-pandey-08b312260/)
