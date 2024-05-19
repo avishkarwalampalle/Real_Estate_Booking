@@ -34,7 +34,7 @@ Homyz is a cutting-edge real estate web application developed using the powerful
 1. Clone the repository:
 
    bash
-   git clone https://github.com/kajalpandey25/real-estate-booking.git
+   git clone https://github.com/avishkarwalampalle/Real_Estate_Booking.git
    
 
 2. Change into the project directory:
