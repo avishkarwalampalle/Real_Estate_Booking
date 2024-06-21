@@ -69,28 +69,3 @@ Homyz is a cutting-edge real estate web application developed using the powerful
 ## Usage
 
 - Explore property listings, customize your search, and create a user profile to list properties or access additional features.
-
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute to the project:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix:
-
-   bash
-   git checkout -b feature/your-feature-name
-   
-
-3. Make your changes and commit them:
-
-   bash
-   git commit -m "Your commit message here"
-   
-
-4. Push your changes to your fork:
-
-   bash
-   git push origin feature/your-feature-name
-   
-
-5. Create a pull request to the main repository.
