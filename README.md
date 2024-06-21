@@ -28,44 +28,6 @@ Homyz is a cutting-edge real estate web application developed using the powerful
 ![Screenshot 1](./client/public/Screenshot3.png)
 ![Screenshot 1](./client/public/Screenshot4.png)
 
-
-## Installation
-
-1. Clone the repository:
-
-   bash
-   git clone https://github.com/avishkarwalampalle/Real_Estate_Booking.git
-   
-
-2. Change into the project directory:
-   bash
-   cd real-estate-booking
-   
-3. Install server dependencies:
-
-   bash
-   npm install
-   
-
-4. Install client dependencies:
-
-   bash
-   cd client
-   npm install
-   
-
-5. Create a .env file in the root directory with your configuration settings.
-
-   bash
-   MONGO = "MONGODB URI"
-   JWT_SECRET = "JWTSECRET"
-   
-
-6. Start the development server:
-
-   bash
-   npm run dev
-
 ## Usage
 
 - Explore property listings, customize your search, and create a user profile to list properties or access additional features.
